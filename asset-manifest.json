@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/retobit2bitAmericas-backend/static/css/main.56e6221f.css",
-    "main.js": "/retobit2bitAmericas-backend/static/js/main.b8405bde.js",
-    "static/js/787.9750ae9a.chunk.js": "/retobit2bitAmericas-backend/static/js/787.9750ae9a.chunk.js",
-    "index.html": "/retobit2bitAmericas-backend/index.html",
-    "main.56e6221f.css.map": "/retobit2bitAmericas-backend/static/css/main.56e6221f.css.map",
-    "main.b8405bde.js.map": "/retobit2bitAmericas-backend/static/js/main.b8405bde.js.map",
-    "787.9750ae9a.chunk.js.map": "/retobit2bitAmericas-backend/static/js/787.9750ae9a.chunk.js.map"
+    "main.css": "/retobit2bitAmericas-frontend/static/css/main.56e6221f.css",
+    "main.js": "/retobit2bitAmericas-frontend/static/js/main.17ce1081.js",
+    "static/js/787.9750ae9a.chunk.js": "/retobit2bitAmericas-frontend/static/js/787.9750ae9a.chunk.js",
+    "index.html": "/retobit2bitAmericas-frontend/index.html",
+    "main.56e6221f.css.map": "/retobit2bitAmericas-frontend/static/css/main.56e6221f.css.map",
+    "main.17ce1081.js.map": "/retobit2bitAmericas-frontend/static/js/main.17ce1081.js.map",
+    "787.9750ae9a.chunk.js.map": "/retobit2bitAmericas-frontend/static/js/787.9750ae9a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.56e6221f.css",
-    "static/js/main.b8405bde.js"
+    "static/js/main.17ce1081.js"
   ]
 }
